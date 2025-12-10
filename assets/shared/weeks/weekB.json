@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Kahoot Time", "walt", [146, 113, 253]],
+		["basics", "baldihappy", [146, 113, 253]],
+		["destruction", "baldi", [146, 113, 253]],
+	],
+
+	"weekCharacters": [
+		"walt",
+		"didi2",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Go To School",
+	"weekBefore": "weekD",
+	"weekName": "Week B",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

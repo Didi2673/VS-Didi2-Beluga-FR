@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Bopeebo2", "didi1", [146, 113, 253]],
+		["Fresh2", "didi1", [146, 113, 253]],
+		["Dad Battle2", "didi666", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"didi1",
+		"didi2",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Didi Familly",
+	"weekBefore": "tutorial",
+	"weekName": "Week D",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

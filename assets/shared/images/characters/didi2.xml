@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="didi2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HEY!!0000" x="0" y="2160" width="807" height="1080" frameX="-0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE DOWN0000" x="1614" y="0" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE DOWN MISS0000" x="1614" y="1080" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE LEFT0000" x="807" y="0" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="807" y="1080" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="3228" y="0" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="3228" y="1080" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE UP0000" x="2421" y="0" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF NOTE UP MISS0000" x="2421" y="1080" width="807" height="1080" frameX="0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="807" height="1080" frameX="-0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF dies0000" x="0" y="1080" width="807" height="1080" frameX="-0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF Dead confirm0024" x="0" y="1080" width="807" height="1080" frameX="-0" frameY="0" frameWidth="807" frameHeight="1080"/>
+	<SubTexture name="BF Dead Loop0000" x="0" y="1080" width="807" height="1080" frameX="-0" frameY="0" frameWidth="807" frameHeight="1080"/>
+</TextureAtlas>

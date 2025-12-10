@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="walt.png" width="4046" height="1119">
+  <SubTexture name="singDOWN0001" x="2889" y="0" width="963" height="963" frameX="0" frameY="0" frameWidth="963" frameHeight="963" />
+  <SubTexture name="singRIGHT0001" x="2889" y="963" width="963" height="963" frameX="0" frameY="0" frameWidth="963" frameHeight="963" />
+  <SubTexture name="singLEFT0001" x="963" y="963" width="963" height="963" frameX="0" frameY="0" frameWidth="963" frameHeight="963" />
+  <SubTexture name="singUP0001" x="0" y="963" width="963" height="963" frameX="-0" frameY="0" frameWidth="963" frameHeight="963" />
+  <SubTexture name="idle0001" x="0" y="0" width="963" height="963" frameX="0" frameY="0" frameWidth="963" frameHeight="963" />
+</TextureAtlas>
